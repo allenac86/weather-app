@@ -8,7 +8,7 @@ To use:
     - example: API_KEY=<your openweathermap.org API key>
   - clone repo
   - navigate to the root directory in the command prompt and run node index.js <zip code>
-    - example: node index.js 14224
+    - example: node app.js 14224
     - if no argument is provided the default zip code is 14224
   - great success
   
